@@ -12,4 +12,4 @@ Dataset not uploaded due to size constraints.
 # Output
     * https://github.com/sharvani-rk/Sign-language-detection/raw/main/Screenshot%202024-11-18%20193031.png
     * https://github.com/sharvani-rk/Sign-language-detection/raw/main/Screenshot%202024-11-18%20194636.png
-    * 
+    * https://github.com/sharvani-rk/Sign-language-detection/raw/main/Screenshot%202024-11-18%20194933.png
