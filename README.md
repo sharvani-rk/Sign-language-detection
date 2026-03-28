@@ -1,4 +1,4 @@
-# Sign Language Detection using Deep Learning
+ # Sign Language Detection using Deep Learning
 
 This project focuses on detecting hand gestures representing alphabets (A–Z) using a deep learning model. A CNN/LSTM-based approach is used to recognize gestures from input images or video frames.
 
@@ -7,3 +7,7 @@ The model is trained on sign language data and can predict alphabets in real tim
 Technologies used include Python, TensorFlow/Keras, and OpenCV.
 
 Dataset not uploaded due to size constraints.
+# Model Training
+    * https://github.com/sharvani-rk/Sign-language-detection/blob/main/Screenshot%20(1).png
+# Output
+    *
