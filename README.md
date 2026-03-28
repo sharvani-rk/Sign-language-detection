@@ -8,6 +8,7 @@ Technologies used include Python, TensorFlow/Keras, and OpenCV.
 
 Dataset not uploaded due to size constraints.
 # Model Training
-    * https://github.com/sharvani-rk/Sign-language-detection/blob/main/Screenshot%20(1).png
+    * https://github.com/sharvani-rk/Sign-language-detection/raw/main/Screenshot%20(1).png
 # Output
-    *
+    * https://github.com/sharvani-rk/Sign-language-detection/raw/main/Screenshot%202024-11-18%20193031.png
+    * 
